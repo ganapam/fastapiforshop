@@ -1,1 +1,5 @@
-fastapi[all]
+pip install fastapi[all]
+PyJWT==2.3.0
+pip install fastapi uvicorn
+pip freeze > requirements.txt
+
