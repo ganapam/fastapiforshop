@@ -1,5 +1,6 @@
 pip install fastapi[all]
-PyJWT==2.3.0
 pip install fastapi uvicorn
-pip freeze > requirements.txt
+pip install SQLAlchemy
+pip install mysql-connector-python
+pip install pyjwt
 
